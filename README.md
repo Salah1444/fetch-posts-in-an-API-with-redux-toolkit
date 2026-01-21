@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 'you need to install redux'
+   first-code: ### npm install redux react-redux
+   second-code: ### npm install @reduxjs/toolkit
+### 'you need to install icons'
+   code: ### npm install react-icons
+### 'you need to install bootstrap'
+   code: ### npm install bootstrap
